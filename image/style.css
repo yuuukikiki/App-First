@@ -1,22 +1,25 @@
 .header{
-  height: 100px;
+  padding: 0 100px 0 30px;
   width: 1366px;
   background-color: #DBDBDB;
   display: flex;
+  justify-content: space-between;
 }
 
 .heading{
   font-size: 36px;
   font-weight: 600;
-  padding-left: 30px;
-  align-items: center;
-  justify-content: center;
+  line-height: 100px;
 }
 
-.nav-list{
+.nav-lists{
   display: flex;
+  height: 100px;
 }
 
-.li{
+.nav-lists-list{
   font-size: 22px;
+  font-weight: 600;
+  line-height: 100px;
+  margin-left: 70px;
 }
