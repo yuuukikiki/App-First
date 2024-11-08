@@ -23,3 +23,14 @@
   line-height: 100px;
   margin-left: 70px;
 }
+
+.top-image{
+  height: 100%;
+  width: 100%;
+}
+
+.upper-title{
+  font-size: 70px;
+  font-weight: 600;
+  color: #000;
+}
